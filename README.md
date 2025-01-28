@@ -1,6 +1,7 @@
 
                                                                  
 #Prevention of Sexual Harassment (POSH)#
+
 The Prevention of Sexual Harassment (POSH), ensures a safe and respectful workplace for everyone, regardless of gender. It applies to all workplaces, public or private, and outlines steps to prevent and address sexual harassment.
 
 ## What is Sexual Harassment? ##
