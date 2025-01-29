@@ -23,7 +23,7 @@ Motivation: Pick habits you care about.
 Ability: Start small and make it easy.
 Prompt: Use reminders or link it to something you already do.
 
-##Question3
+## Question3
 Question 3
 Why it is important to "Shine" or Celebrate after each successful completion of habit? (This is the most important concept in today's topic. Whatever you celebrate becomes a habit).
 ## Ans:-
